@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>250758252823-7jbm57thee9jb90s4h6ufi48th917vda.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.250758252823-7jbm57thee9jb90s4h6ufi48th917vda</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCa_QW_oni10Wq_FSAMXYjMwwQTauiljPU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>250758252823</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sun.text.DuelGame</string>
+	<key>PROJECT_ID</key>
+	<string>cardgame-855bd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cardgame-855bd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:250758252823:ios:1288dc3a0760a4bf</string>
+	<key>DATABASE_URL</key>
+	<string>https://cardgame-855bd.firebaseio.com</string>
+</dict>
+</plist>
